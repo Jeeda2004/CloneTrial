@@ -2,3 +2,4 @@ ceylin
 ilgaz 
 pars
 eren
+inci
